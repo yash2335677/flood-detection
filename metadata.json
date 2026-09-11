@@ -1,0 +1,6 @@
+{
+  "name": "LoRa Flood Detection & Alert System",
+  "description": "Real-time flood detection dashboard and responsive mobile application powered by LoRa gateway telemetry, water analysis visualizations, instant alert broadcasts, and SMS notifications.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
